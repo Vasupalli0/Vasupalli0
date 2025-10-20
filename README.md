@@ -1,5 +1,5 @@
-# 💫 This is me:
-Hey, my name is Aatish.<br>I'm currently a Computer Science Student and working on some Projects.<br>DSA and System Design are the things that I am more focused on now.<br>The "TechStack" that I have listed below, and I am only proficient in some of them.
+# 💫 Hey, This is Aatish:
+🧑‍💻I'm currently a Computer Science Student and working on some Projects.<br>📊DSA and System Design are the things that I am more focused on now.<br>⚙️The "TechStack" that I have listed below, and I am only proficient in some of them.😅
 
 
 ## 🌐 I'm mostly Online AT:
