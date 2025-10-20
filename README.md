@@ -1,5 +1,5 @@
-# 💫 Jai Aatish Vasupalli:
-My name is Aatish.<br>I'm currently a Computer Science Student and working on some Projects.<br>I'm currently studying DSA and System Design.<br>I'm currently studying all the "TechStack" that I have listed below, and I am only proficient in some of them.
+# 💫 This is me:
+Hey, my name is Aatish.<br>I'm currently a Computer Science Student and working on some Projects.<br>I'm currently studying DSA and System Design.<br>I'm currently studying all the "TechStack" that I have listed below, and I am only proficient in some of them.
 
 
 ## 🌐 I'm mostly Online AT:
